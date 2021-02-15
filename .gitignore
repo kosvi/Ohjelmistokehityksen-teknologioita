@@ -1,3 +1,4 @@
 .pytest*
 __*
 .coverage
+htmlcov
